@@ -3,7 +3,7 @@
 #include <UniversalTelegramBot.h>
 #define WIFI_SSID "Wokwi-GUEST"
 #define WIFI_PASSWORD "" /// оставляем пустым
-#define BOT_TOKEN ""
+#define BOT_TOKEN "6456350943:AAHkoqnNoL7oMzkoMDS-gqAPcDC6upDDILs"
 
 const unsigned long BOT_MTBS = 1000; // время обновления
 WiFiClientSecure secured_client;
